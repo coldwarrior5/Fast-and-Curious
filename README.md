@@ -1,7 +1,7 @@
 # Fast and Curious
 (Brzi i žestoki)
 
-This is an interactive simulator of drivers education. Simulator is based upon virtual world that uses real world elements, international driving regulations, realistic traffic situations and proceduraly generated roads.
+This is an interactive simulator of driver's education. Simulator is based upon virtual world that uses real world elements, international driving regulations, realistic traffic situations and procedurally generated roads.
 The goal of this simulator is to prepare young drivers on the road conditions and to teach them traffic regulations.
 
 [Unity tutoriali](https://unity3d.com/learn/tutorials)
